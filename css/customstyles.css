@@ -1,0 +1,10 @@
+.dropdown-menu {
+left:auto;
+right:0px;
+}
+.navbar .nav > li {
+float:right;
+}
+.table-striped tbody tr:nth-child(odd) th {
+background-color:#C4E3F3;
+}
